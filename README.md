@@ -19,11 +19,11 @@ Conducted analysis in Python with the use of AWS EMR Cluster and Jupyter Noteboo
 
 -  Ran a series of queries (in python with DataFrame API and/or Spark SQL) 
 
-[![Top Business Categories](https://github.com/johnmakhijani/Yelp/blob/cdadca41ef93adee1e2721e80e31d15ff4356d36/Bus_Cat.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/cdadca41ef93adee1e2721e80e31d15ff4356d36/Bus_Cat.png?raw=true)
+[![Top Business Categories](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/Bus_Cat.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/Bus_Cat.png/Bus_Cat.png?raw=true)
 
-[![Top User Categories](https://github.com/johnmakhijani/Yelp/blob/cdadca41ef93adee1e2721e80e31d15ff4356d36/User_Cat.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/cdadca41ef93adee1e2721e80e31d15ff4356d36/User_Cat.png?raw=true)
+[![Top User Categories](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/User_Cat.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/User_Cat.png?raw=true)
 
-[![User Review Skew](https://github.com/johnmakhijani/Yelp/blob/cdadca41ef93adee1e2721e80e31d15ff4356d36/Skew.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/cdadca41ef93adee1e2721e80e31d15ff4356d36/Skew.png?raw=true)
+[![User Review Skew](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/Skew.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/Skew.png?raw=true)
 
 [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset) - Data source on Kaggle
 [John Github](https://github.com/johnmakhijani/t) - John Makhijani Github
