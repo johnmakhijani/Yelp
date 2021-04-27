@@ -2,12 +2,12 @@
 ## _Analyzing 10Gb of Yelp Reviews Data_
 by John Makhijani Spring 2021
 
-This project consists of analysis of datasets of Yelp’s businesses, reviews, and user data. In total there are over 8.6 million user reviews with information on 160,000 business from 9+ markets in US / Canada. All the data sets combined exceeds 10GB of data in five datasets.
-- Business
-- User
-- Review
-- Tip
-- Checkin
+This project consists of analysis of datasets of Yelp’s businesses, reviews, and user data. In total there are over 8.6 million user reviews with information on 160,000 business from 9+ markets in US / Canada. All the data sets combined exceed 10GB of data over five datasets.
+- Business Dataset
+- User Dataset
+- Review Dataset
+- Tip Dataset
+- Checkin Dataset
 
 The datasets are saved in JSON format. I primarily worked with the Business, Review and User datasets 
 
