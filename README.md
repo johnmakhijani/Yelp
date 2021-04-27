@@ -20,6 +20,7 @@ Conducted analysis in Python with the use of an AWS EMR Cluster and Jupyter Note
 -  Ran a series of queries (in python with DataFrame API and/or Spark SQL) 
 
 Sample Vizualizations:
+
 [![Top Business Categories](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/Bus_Cat.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/Bus_Cat.png/Bus_Cat.png?raw=true)
 
 [![Top User Categories](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/User_Cat.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/User_Cat.png?raw=true)
