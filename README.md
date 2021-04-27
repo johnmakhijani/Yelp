@@ -28,4 +28,4 @@ Sample Vizualizations:
 [![User Review Skew](https://github.com/johnmakhijani/Yelp/blob/b531517ec7e60fb09c4f4c2a63ddba1a7a1e2c33/Skew.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/b531517ec7e60fb09c4f4c2a63ddba1a7a1e2c33/Skew.png?raw=true)
 
 [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset) - Data source on Kaggle
-[John Github](https://github.com/johnmakhijani/t) - John Makhijani Github
+[John Github](https://github.com/johnmakhijani/) - John Makhijani Github
