@@ -25,7 +25,7 @@ Sample Vizualizations:
 
 [![Top User Categories](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/User_Cat.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/b3f85e7686e689ed4be05928319879dba6fea3d9/User_Cat.png?raw=true)
 
-[![User Review Skew](https://github.com/johnmakhijani/Yelp/blob/b531517ec7e60fb09c4f4c2a63ddba1a7a1e2c33/Skew.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/b531517ec7e60fb09c4f4c2a63ddba1a7a1e2c33/Skew.png?raw=true)
+[![User Review Skew](https://github.com/johnmakhijani/Yelp/blob/22749afe274c0d3352e624abbee818b3efdcf39a/Skew.png?raw=true)](https://github.com/johnmakhijani/Yelp/blob/22749afe274c0d3352e624abbee818b3efdcf39a/Skew.png?raw=true)
 
 [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset) - Data source on Kaggle
 [John Github](https://github.com/johnmakhijani/) - John Makhijani Github
